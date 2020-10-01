@@ -8,7 +8,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning: java, spring
+- 🌱 I’m currently learning: java, spring, algorithms, database
 - 👯 I’m looking to collaborate on: kaggle projects
 - 🤔 I’m looking for help with: landing a job
 - 📫 How to reach me: didme07@gmail.com
