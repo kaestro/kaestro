@@ -7,8 +7,16 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on:
+- 🤔 I’m looking for help with:
+- 🌱 I’m currently learning:
+- 📫 How to reach me:
 -->
-- 🌱 I’m currently learning: java, spring, algorithms, database
-- 👯 I’m looking to collaborate on: kaggle projects
-- 🤔 I’m looking for help with: landing a job
-- 📫 How to reach me: didme07@gmail.com
+- I’m currently learning: c++, algorithms, database
+- I'm currently working at: com2us
+- How to reach me: didme07@gmail.com
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=didme)](https://solved.ac/didme)
+
+[codeforces profile](https://codeforces.com/profile/defile_noir)
+
