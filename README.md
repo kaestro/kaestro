@@ -12,11 +12,10 @@
 - 🌱 I’m currently learning:
 - 📫 How to reach me:
 -->
-- I’m currently learning: c++, algorithms, database
-- I'm currently working at: com2us
 - How to reach me: didme07@gmail.com
+- my name is: 김태홍
+- I majored in Electrical and Computer Engineering in SNU
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=didme)](https://solved.ac/didme)
 
 [codeforces profile](https://codeforces.com/profile/defile_noir)
-
