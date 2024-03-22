@@ -16,7 +16,3 @@
 - my name is: 김태홍
 - I majored in Electrical and Computer Engineering in SNU
 - blog: https://kaestro.github.io/
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=didme)](https://solved.ac/didme)
-
-[codeforces profile](https://codeforces.com/profile/defile_noir)
