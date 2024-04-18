@@ -5,7 +5,7 @@
 현재 가장 신경써서 진행중인 **레포지토리**는 세 개 입니다.
 
 - [채팅 프로그램](https://github.com/kaestro/ChatApplication)
-- [블로그](https://kaestro.github.io), [깃허브 레포지토리](https://github.com/kaestro/kaestro.github.io/)
+- [블로그](https://kaestro.github.io), [블로그 레포지토리](https://github.com/kaestro/kaestro.github.io/)
 - [알고리즘 풀이](https://github.com/kaestro/algorithms_v3)
 
 **채팅 프로그램**을 통해서는 제 소프트웨어 개발 전반적인 역량을 확인하실 수 있습니다. 컴퓨터가 아니라 사람이 읽을 수 있는 코드를 작성하는 것을 목표로, 장기간 유지 보수를 통해 발전할 수 있는 소프트웨어를 개발하기 위해 엔지니어로써 고민해야할 것들이 무엇인지를 배우는 중 입니다. 주로 **Go**로 작성돼있습니다. 자세한 내용은 [다음 포스트](https://kaestro.github.io/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80/2024/04/12/Chat-Application-Readme.html)를 통해 확인하실 수 있습니다.
