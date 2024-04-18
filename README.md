@@ -4,11 +4,11 @@
 
 현재 가장 신경써서 진행중인 **레포지토리**는 세 개 입니다.
 
-- [채팅 프로그램](https://github.com/kaestro/ChatApplication)
+- [채팅 프로그램 API 서버 프로젝트](https://github.com/kaestro/ChatApplication)
 - [블로그](https://kaestro.github.io), [블로그 레포지토리](https://github.com/kaestro/kaestro.github.io/)
 - [알고리즘 풀이](https://github.com/kaestro/algorithms_v3)
 
-**채팅 프로그램**을 통해서는 제 소프트웨어 개발 전반적인 역량을 확인하실 수 있습니다. 컴퓨터가 아니라 사람이 읽을 수 있는 코드를 작성하는 것을 목표로, 장기간 유지 보수를 통해 발전할 수 있는 소프트웨어를 개발하기 위해 엔지니어로써 고민해야할 것들이 무엇인지를 배우는 중 입니다. 주로 **Go**로 작성돼있습니다. 자세한 내용은 [다음 포스트](https://kaestro.github.io/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80/2024/04/12/Chat-Application-Readme.html)를 통해 확인하실 수 있습니다.
+**채팅 프로그램 API 서버** 프로젝트을 통해서는 제 소프트웨어 개발 전반적인 역량을 확인하실 수 있습니다. 컴퓨터가 아니라 사람이 읽을 수 있는 코드를 작성하는 것을 목표로, 장기간 유지 보수를 통해 발전할 수 있는 소프트웨어를 개발하기 위해 엔지니어로써 고민해야할 것들이 무엇인지를 배우는 중 입니다. 주로 **Go**로 작성돼있습니다. 자세한 내용은 [다음 포스트](https://kaestro.github.io/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80/2024/04/12/Chat-Application-Readme.html)를 통해 확인하실 수 있습니다.
 
 **블로그**를 통해서는 제가 평소 어떤 생각을 하고 무엇에 관심이 있으며, 이를 다른 사람에게 어떻게 전달하는 사람인지 확인하실 수 있습니다. 대표적으로는 개발 일지, 읽은 책이나 블로그, 기술 정리 등을 다루고 있습니다. html, md, js, liquid 등을 통해 **프론트엔드단도 직접 작성**하고 있습니다. 관련해서 진행한 개발 이야기는 [다음 포스트](https://kaestro.github.io/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80/2024/03/30/Blog-%EA%B8%B0%EB%8A%A5-%EA%B0%9C%EB%B0%9C.html)에서 확인하실 수 있습니다
 
