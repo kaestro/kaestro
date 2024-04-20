@@ -5,8 +5,11 @@
 현재 가장 신경써서 진행중인 **레포지토리**는 세 개 입니다.
 
 - [채팅 프로그램 API 서버 프로젝트](https://github.com/kaestro/ChatApplication)
+  - ![chatApplication repo metrics](/metrics.chatapplication.repository.svg)
 - [블로그](https://kaestro.github.io), [블로그 레포지토리](https://github.com/kaestro/kaestro.github.io/)
+  - ![blog repo metrics](/metrics.blog.repository.svg)
 - [알고리즘 풀이](https://github.com/kaestro/algorithms_v3)
+  - ![algorithms_v3 repo metrics](/metrics.algorithms_v3.repository.svg)
 
 **채팅 프로그램 API 서버** 프로젝트을 통해서는 제 소프트웨어 개발 전반적인 역량을 확인하실 수 있습니다. 컴퓨터가 아니라 사람이 읽을 수 있는 코드를 작성하는 것을 목표로, 장기간 유지 보수를 통해 발전할 수 있는 소프트웨어를 개발하기 위해 엔지니어로써 고민해야할 것들이 무엇인지를 배우는 중 입니다. 주로 **Go**로 작성돼있습니다. 자세한 내용은 [다음 포스트](https://kaestro.github.io/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80/2024/04/12/Chat-Application-Readme.html)를 통해 확인하실 수 있습니다.
 
@@ -18,22 +21,9 @@
 
 그 밖에 **최근**에 작성한 레포지토리들은 다음과 같은 것들이 있습니다.
 
-* [CommunityBoardAPI](https://github.com/kaestro/CommunityBoardAPI)
-  * **fastAPI**를 통해 작성한 간단한 게시판의 **REST API** 서버입니다.
-* [Head First Design Pattern In Go](https://github.com/kaestro/head-first-design-pattern-in-go)
-  * **Head First Design Pattern**이란 책을 읽으며 공부한 내용을 **Go**로 작성해 본 레포지토리입니다.
-* [fiber-grpc](https://github.com/tldr-development/fiber-grpc)
-  * 2인 팀으로 진행중인 **grpc**로 자주 사용하는 **API**들을 정리해 둔 서버입니다.
-
-<!--
-**kaestro/kaestro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<!-- 🔭 I’m currently working on ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 👯 I’m looking to collaborate on:
-- 🤔 I’m looking for help with:
-- 🌱 I’m currently learning:
-- 📫 How to reach me:
--->
+- [CommunityBoardAPI](https://github.com/kaestro/CommunityBoardAPI)
+  - **fastAPI**를 통해 작성한 간단한 게시판의 **REST API** 서버입니다.
+- [Head First Design Pattern In Go](https://github.com/kaestro/head-first-design-pattern-in-go)
+  - **Head First Design Pattern**이란 책을 읽으며 공부한 내용을 **Go**로 작성해 본 레포지토리입니다.
+- [fiber-grpc](https://github.com/tldr-development/fiber-grpc)
+  - 2인 팀으로 진행중인 **grpc**로 자주 사용하는 **API**들을 정리해 둔 서버입니다.
