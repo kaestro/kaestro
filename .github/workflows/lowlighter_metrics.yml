@@ -5,7 +5,7 @@ on:
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
+  push: {branches: ["master", "main", "1-apply-lowlighter-metrics"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -21,10 +21,34 @@ jobs:
       - uses: lowlighter/metrics@main
         with:
           template: repository
-          filename: metrics.repository.svg
+          filename: metrics.chatapplication.repository.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: kaestro
           repo: ChatApplication
+          plugin_lines: yes
+          plugin_followup: yes
+          plugin_projects: yes
+          plugin_projects_repositories: lowlighter/metrics/projects/1
+
+      - uses: lowlighter/metrics@main
+        with:
+          template: repository
+          filename: metrics.blog.repository.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: kaestro
+          repo: kaestro.github.io
+          plugin_lines: yes
+          plugin_followup: yes
+          plugin_projects: yes
+          plugin_projects_repositories: lowlighter/metrics/projects/1
+
+      - uses: lowlighter/metrics@main
+        with:
+          template: repository
+          filename: metrics.algorithms.repository.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: kaestro
+          repo: algorithms_v3
           plugin_lines: yes
           plugin_followup: yes
           plugin_projects: yes
