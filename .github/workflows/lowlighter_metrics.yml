@@ -18,10 +18,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-  repository-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@main
         with:
           template: repository
           filename: metrics.repository.svg
