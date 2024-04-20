@@ -2,9 +2,9 @@
 
 ![github Metrics](/github-metrics.svg)
 
-93년생의 남성으로, **대장장이 신 오른**처럼 매일 같이 자신을 단련하려고 노력하고 있습니다. 이를 통해 성장해서 **초전설급 소프트웨어 엔지니어**가 되는 것이 목표입니다.
+93년생의 남성으로, 대장장이 신 오른처럼 매일 같이 자신을 단련하려고 노력하고 있습니다. 이를 통해 성장해서 초전설급 소프트웨어 엔지니어가 되는 것이 목표입니다.
 
-현재 가장 신경써서 진행중인 **레포지토리**는 다음 세 개 입니다.
+현재 가장 신경써서 진행중인 레포지토리는 다음 세 개 입니다.
 
 | ![chatApplication repo metrics](/metrics.chatapplication.repository.svg) | ![blog repo metrics](/metrics.blog.repository.svg) |
 | --- | --- |
