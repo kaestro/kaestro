@@ -39,7 +39,6 @@ jobs:
           template: repository
           filename: metrics.blog.repository.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
           user: kaestro
           repo: kaestro.github.io
           plugin_lines: yes
@@ -53,7 +52,6 @@ jobs:
           template: repository
           filename: metrics.algorithms.repository.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
           user: kaestro
           repo: algorithms_v3
           plugin_lines: yes
