@@ -25,6 +25,7 @@ jobs:
           template: repository
           filename: metrics.chatapplication.repository.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           user: kaestro
           repo: ChatApplication
           plugin_lines: yes
@@ -38,6 +39,7 @@ jobs:
           template: repository
           filename: metrics.blog.repository.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           user: kaestro
           repo: kaestro.github.io
           plugin_lines: yes
@@ -51,9 +53,10 @@ jobs:
           template: repository
           filename: metrics.algorithms.repository.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           user: kaestro
           repo: algorithms_v3
           plugin_lines: yes
-          plugin_lines_sections: history
+          plugin_lines_sections: base
           plugin_lines_delay: 30
           plugin_followup: yes
