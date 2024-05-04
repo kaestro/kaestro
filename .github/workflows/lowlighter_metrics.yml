@@ -25,7 +25,6 @@ jobs:
           template: repository
           filename: metrics.chatapplication.repository.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
           user: kaestro
           repo: ChatApplication
           plugin_lines: yes
